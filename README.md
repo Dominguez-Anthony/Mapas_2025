@@ -27,3 +27,6 @@ Características Principales
 🔴 Marcadores Múltiples: Visualización de varios marcadores en un área delimitada.
 
 🗺️ Coordenadas en Tiempo Real: Visualización de latitud (-1.0433) y longitud (-79.4786).
+
+![image](https://github.com/user-attachments/assets/132c5677-ca05-4bbb-9aae-bbcd4f16dc66)
+
